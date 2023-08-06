@@ -2,7 +2,7 @@
 #define __seconds_h__ 1
 
 #ifdef _WIN32
-#include <Winsock2.h>
+#include <winsock2.h>
 
 #include <time.h>
 #include <windows.h>
